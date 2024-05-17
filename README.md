@@ -1,2 +1,1 @@
-# 2AEDITH2024
-MATEMATICA 2
+# site-criativo-alura
